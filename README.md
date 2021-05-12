@@ -1,2 +1,7 @@
-# basiccredit-webapp
-Smart Contract Front End
+# Basic Credit Webapp
+
+Getting Started
+
+Install Dependencies
+
+npm install
